@@ -1,0 +1,23 @@
+.navbar {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #014522;
+}
+
+.navbar_category{
+    color: wheat;
+    margin-top: 25px;
+    margin-left: 16px;
+    margin-right: 16px;
+    display: flex;
+    justify-content: end;
+    align-items: stretch;
+}
+
+.navbar__menu{
+    color: black;
+    margin: 16px;
+}
+

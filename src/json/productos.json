@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "name": "Samsung",
+        "desc": "64 a 268 GB",
+        "imagen": "https://images.samsung.com/is/image/samsung/latin-galaxy-s20-plus-g985-bts-sm-g985fzpjgto-frontbpurple-thumb-261222598",
+        "precio": 90000,
+        "stock": 10,
+        "categoria": "celulares"
+    },
+    {
+        "id": 2,
+        "name": "Heladera LG Freezer",
+        "desc": "Heladera con freezer, estantes de alambre pintado. Bandejon con tapa. 3 Estantes. Crisper con tapa. Tipo de refrigerante: R-134a. Termostato: Mecanico en el refrigerador. Freezer Superior",
+        "imagen": "https://www.lg.com/ar/images/heladeras/md06176357/gallery/1100_1.jpg",
+        "precio": 100000,
+        "stock": 5,
+        "categoria": "heladeras"
+    },
+    {
+        "id": 3,
+        "name": "Longvie",
+        "desc": "Clase AA. Cap.6 Kg, Display Led. Carga Autoadaptativa. Sist.Autobalance. 29 Alternativas de lavado. Puerta extra grande. Ciclos especificos de lavado. Antiarrugas. Lavado rapido. Lavado de 1/2 hr. Eco Wash. Hand Wash. Control de temperatura. 600RPM.",
+        "imagen": "https://www.longvie.com/files/product_attachment/attachment/1068/mini_L18012C.jpg",
+        "precio": 108000,
+        "stock": 6,
+        "categoria": "lavarropas"
+    },
+  
+    {
+        "id":4,
+        "name":"Xiami Redmi A57",
+        "desc":"Color Azul, verde, blanco, negro. 124 GB",
+        "imagen":"https://d2r9epyceweg5n.cloudfront.net/stores/001/388/250/products/note-11-pro-21-a1a688279b7f8189a416516112601220-480-0.jpg",
+        "precio": 98000,
+        "stock": 15,
+        "categoria":"celulares"
+    },
+    {
+        "id":5,
+        "name":"Motorola E22",
+        "desc":"Color Negro, blanco, rojo. 128 GB",
+        "imagen":"https://tienda.personal.com.ar/images/Moto_G32_Gris_Dorso_min_07cd3fb55d.png",
+        "precio":85000,
+        "stock": 9,
+        "categoria":"celulares"
+    },
+    {
+        "id":6,
+        "name":"Heladera LG",
+        "desc":"Moist Balance Crisper™ - Nivel Óptimo de Humedad",
+        "imagen":"https://www.lg.com/ar/images/heladeras/md06051157/gallery/D01.jpg",
+        "precio":170000,
+        "stock":6,
+        "categoria":"heladeras"
+    },
+    {
+        "id":7,
+        "name":"Heladera PATRICK",
+        "desc":"Gracias a su eficiencia energética A, vas a ahorrar en la economía de tu hogar y aprovechar al máximo su rendimiento, ya que cuenta con un 45% de ahorro de consumo.",
+        "imagen":"https://www.casacemi.com.ar/1465-large_default/heladera-patrick-302-lts-platino-hpk136p-.jpg",
+        "precio":185000,
+        "stock":4,
+        "categoria":"heladeras"
+    },
+    {
+        "id":8,
+        "name":"Lavarropas Whirlpool Carga Frontal 7 KG 1000 RPM",
+        "desc":"En solo 30 minutos realiza un lavado a media carga para refrescar las prendas sin manchas.",
+        "imagen":"https://whirlpoolarg.vteximg.com.br/arquivos/ids/162858-1000-1000/01-min.jpg?v=637821804700400000",
+        "precio":100000,
+        "stock":5,
+        "categoria":"lavarropas"
+    },
+    {
+        "id":9,
+        "name":"Lavarropas Drean NEXT 7.09 7K 900RPM CF",
+        "desc":"Puerta Extra grande con apertura de 180º sin palanca y el mayor espacio de acceso al tambor.",
+        "imagen":"https://www.cetrogar.com.ar/media/catalog/product/l/b/lb2949-1.jpg?width=500&height=500&canvas=500,500&quality=80&bg-color=255,255,255&fit=bounds",
+        "precio":120000,
+        "stock":2,
+        "categoria":"lavarropas"
+    }
+]

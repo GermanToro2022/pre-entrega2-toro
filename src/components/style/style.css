@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+/* Estilo del navbar */
+
+.navbar {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #014522;
+}
+
+.navbar_category{
+    color: wheat;
+    margin-top: 25px;
+    margin-left: 16px;
+    margin-right: 16px;
+    display: flex;
+    justify-content: end;
+    align-items: stretch;
+    text-decoration: none;
+}
+
+/* Posicionamiento y estilo de las card */
+
+/* .container {
+width: 100%;
+display: flex;
+max-width: 100px;
+}
+
+.card {
+    width: 100%;
+    margin: 20px;
+    border-radius: 6px;
+    overflow: hidden;
+    background: white;
+    box-shadow: 0px 1px 10px (0,0,0,0.2);
+} */

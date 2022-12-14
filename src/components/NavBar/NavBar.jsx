@@ -1,20 +1,14 @@
-import { Link } from 'react-router-dom';
-import './NavBar.css';
+import "../../components/style/style.css";
+import { Link, NavLink } from 'react-router-dom';
 
 
-const NavBar = ({ menus, categorias }) => {
+const NavBar = () => {
     return (
         <div className='navbar'>
-            {
-                menus.map((menu) => {
-                    return <Link className='navbar__menu' to={menu.href} >{menu.name}</Link>
-                })
-            }
-            {
-                categorias.map((categoria)=>{
-                    return <Link className='navbar_category' to={`/category/${categoria.id}`}>{categoria.name}</Link>
-                })
-            }
+            <Link className="navbar_category" to={"/"}>Inicio</Link>
+            <NavLink className="navbar_category" to={"/category/celulares"}>Celulares</NavLink>
+            <NavLink className="navbar_category" to={"/category/heladeras"}>Heladeras</NavLink>
+            <NavLink className="navbar_category" to={"/category/lavarropas"}>Lavarropas</NavLink>
         </div>)
 }
 
